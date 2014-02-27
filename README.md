@@ -1,4 +1,6 @@
-mlp6.github.io
+davidbradway.github.io
 ==============
 
-Mark Palmeri: Research &amp; Teaching
+David Bradway: Research &amp; Personal Projects
+
+* forked from mlp6.github.io
